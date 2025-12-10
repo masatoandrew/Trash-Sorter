@@ -1,0 +1,7 @@
+{
+  "name": "Trash Sorter",
+  "description": "A kid-friendly AI assistant to help sort recycling, compost, and trash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
