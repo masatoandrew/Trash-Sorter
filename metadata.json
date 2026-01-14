@@ -1,5 +1,5 @@
 {
-  "name": "Trash Sorter",
+  "name": "Sort-It",
   "description": "A kid-friendly AI assistant to help sort recycling, compost, and trash.",
   "requestFramePermissions": [
     "camera"

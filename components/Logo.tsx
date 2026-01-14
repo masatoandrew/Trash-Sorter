@@ -1,3 +1,4 @@
+
 import React from 'react';
 
 export const Logo: React.FC = () => {
@@ -13,7 +14,7 @@ export const Logo: React.FC = () => {
         <div className="absolute -top-4 -left-12 text-darkGreen text-xl tracking-widest">...</div>
         <div className="absolute -top-4 -right-12 text-darkGreen text-xl tracking-widest">...</div>
       </div>
-      <h1 className="mt-4 text-2xl font-bold text-darkGreen tracking-wide">Trash Sorter</h1>
+      <h1 className="mt-4 text-2xl font-bold text-darkGreen tracking-wide">Sort-It</h1>
     </div>
   );
 };
